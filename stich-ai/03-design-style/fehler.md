@@ -1,46 +1,51 @@
-# Design Style Beispiele
+# Häufige Design Fehler
 
 ---
 
-## Beispiel 1: Modern SaaS
+## 1. Zu viele Styles gemischt
 
-- Weiß + Blau
-- klare Karten
-- minimalistisch
-- Fokus auf Daten
+Problem:
+Dark + Glass + Minimal + Neon zusammen
 
----
-
-## Beispiel 2: Dark Mode Dashboard
-
-- dunkler Hintergrund
-- neon Akzentfarben
-- starke Kontraste
-- Tech Feeling
+Lösung:
+Nur EIN Stil
 
 ---
 
-## Beispiel 3: Apple Style UI
+## 2. Zu viele Farben
 
-- sehr viel Weißraum
-- extrem clean
-- weiche Schatten
-- einfache Typografie
+Problem:
+UI wirkt unruhig
 
----
-
-## Beispiel 4: Glassmorphism
-
-- transparente Cards
-- Blur Effekte
-- leichte Schatten
-- moderne UI Layer
+Lösung:
+1 Primary + 1 Accent + neutrals
 
 ---
 
-## Beispiel 5: Fintech Design
+## 3. Keine visuelle Hierarchie
 
-- Blau + Grün Akzente
-- seriös
-- datengetrieben
-- vertrauenswürdig
+Problem:
+Alles sieht gleich wichtig aus
+
+Lösung:
+Größe + Farbe + Abstand nutzen
+
+---
+
+## 4. Zu viele Effekte
+
+Problem:
+UI wirkt billig
+
+Lösung:
+weniger Schatten, weniger Animationen
+
+---
+
+## 5. Inkonsistenz
+
+Problem:
+Buttons sehen überall anders aus
+
+Lösung:
+Design System definieren
