@@ -1,15 +1,43 @@
-# Product Definition
+# Produktdefinition
 
-## Product Name
+## Produktname
 [NAME]
 
-## Target Audience
-[WHO USES IT]
+## Zielgruppe
+Wer soll das Produkt benutzen?
 
-## Core Function
-[ONLY ONE MAIN FEATURE]
+Fragen:
+- Anfänger oder Profis?
+- Jung oder alt?
+- Privat oder Unternehmen?
+- Technisch oder nicht technisch?
 
-## Platform
+---
+
+## Hauptfunktion
+Was ist die EINE wichtigste Funktion?
+
+Wichtig:
+- Nur eine Kernfunktion definieren
+- Keine Features mischen
+- Möglichst präzise formulieren
+
+Schlecht:
+"Eine Plattform für alles"
+
+Gut:
+"Dashboard zur Analyse eines Krypto-Portfolios"
+
+---
+
+## Plattform
 - Web
 - Mobile
 - Desktop
+
+Wichtig:
+Die Plattform beeinflusst:
+- Navigation
+- Layout
+- Komponenten
+- Nutzerverhalten
