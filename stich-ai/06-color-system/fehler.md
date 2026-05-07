@@ -1,57 +1,51 @@
-# Color System Beispiele
+# Häufige Color System Fehler
 
 ---
 
-## Beispiel 1: SaaS Blue System
+## 1. Zu viele Farben
 
-- Primary: #3B82F6
-- Background: #F9FAFB
-- Surface: #FFFFFF
-- Accent: #10B981
+Problem:
+UI wirkt chaotisch
 
-Wirkung:
-→ Vertrauen + Business + SaaS
+Lösung:
+Max 3–5 Core Farben
 
 ---
 
-## Beispiel 2: AI / Tech System
+## 2. Keine Funktion
 
-- Primary: #8B5CF6
-- Accent: #22D3EE
-- Background: #0F172A
+Problem:
+Farben sind nur dekorativ
 
-Wirkung:
-→ Innovation + Future + AI
-
----
-
-## Beispiel 3: Finance App
-
-- Primary: #2563EB
-- Success: #16A34A
-- Error: #DC2626
-
-Wirkung:
-→ Stabilität + Vertrauen + Sicherheit
+Lösung:
+Jede Farbe hat eine Aufgabe
 
 ---
 
-## Beispiel 4: Minimal System
+## 3. Schlechter Kontrast
 
-- Black: #111111
-- White: #FFFFFF
-- Gray: #6B7280
+Problem:
+Text schlecht lesbar
 
-Wirkung:
-→ Clean + Premium + Focus
+Lösung:
+High Contrast verwenden
 
 ---
 
-## Beispiel 5: Startup Modern
+## 4. Kein System
 
-- Primary: #6366F1
-- Accent: #F59E0B
-- Background: #F3F4F6
+Problem:
+Jede Seite andere Farben
 
-Wirkung:
-→ modern + friendly + scalable
+Lösung:
+Ein zentrales Color System
+
+---
+
+## 5. Dark Mode neu erfunden
+
+Problem:
+Dark Mode ist komplett anders
+
+Lösung:
+Nur invertieren, nicht neu designen
